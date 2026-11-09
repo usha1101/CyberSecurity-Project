@@ -16,5 +16,7 @@ build/
 *.egg-info/
 .idea/
 .vscode/
+node_modules/
+frontend/dist/
 *.log
 
