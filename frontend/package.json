@@ -1,0 +1,21 @@
+{
+  "name": "zeroguard-frontend",
+  "version": "1.0.0",
+  "description": "ZeroGuard — AI-Powered Zero-Day & Logic Flaw Detection Engine Frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "cybersecurity",
+    "zero-day",
+    "appsec",
+    "code-scanner",
+    "ast-analysis",
+    "patch-verification",
+    "cvss"
+  ],
+  "author": "ZeroGuard Team",
+  "license": "ISC"
+}
